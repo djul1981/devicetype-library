@@ -1,0 +1,23 @@
+---
+manufacturer: Cisco
+model: SG200-08
+slug: cisco-sg200-08
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: g1
+    type: 1000base-t
+  - name: g2
+    type: 1000base-t
+  - name: g3
+    type: 1000base-t
+  - name: g4
+    type: 1000base-t
+  - name: g5
+    type: 1000base-t
+  - name: g6
+    type: 1000base-t
+  - name: g7
+    type: 1000base-t
+  - name: g8
+    type: 1000base-t
